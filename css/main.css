@@ -79,9 +79,9 @@ sub {
 sup {
   top: -0.5em;
 }
-img {
+/* img {
   border-style: none;
-}
+} */
 button,
 input,
 optgroup,
@@ -977,9 +977,9 @@ pre code {
 .post-body .note table:last-child,
 .post-body .note pre:last-child,
 .post-body .note blockquote:last-child,
-.post-body .note img:last-child {
+/* .post-body .note img:last-child {
   margin-bottom: 0;
-}
+} */
 .post-body .note.default {
   border-left-color: #777;
 }
@@ -1871,7 +1871,7 @@ pre code {
 }
 .post-body {
   font-family: Lato, 'PingFang SC', 'Microsoft YaHei', sans-serif;
-  overflow-wrap: break-word;
+  /* overflow-wrap: break-word; */
 }
 @media (min-width: 1200px) {
   .post-body {
@@ -1969,7 +1969,7 @@ pre code {
   font-size: 0.875em;
   font-weight: bold;
   line-height: 1;
-  margin: -20px auto 15px;
+  /* margin: -20px auto 15px; */
   text-align: center;
 }
 .post-body iframe,
@@ -2203,12 +2203,12 @@ pre code {
 .post-reward div span {
   display: block;
 }
-.post-reward img {
+/* .post-reward img {
   display: inline-block;
   margin: 0.8em 2em 0;
   max-width: 100%;
   width: 180px;
-}
+} */
 @-moz-keyframes next-roll {
   from {
     transform: rotateZ(30deg);

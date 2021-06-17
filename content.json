@@ -1,1 +1,60 @@
-{"meta":{"title":"Hexo","subtitle":"","description":"","author":"John Doe","url":"http://example.com","root":"/"},"pages":[{"title":"categories","date":"2021-06-10T02:35:53.000Z","updated":"2021-06-10T02:46:57.386Z","comments":true,"path":"categories/index.html","permalink":"http://example.com/categories/index.html","excerpt":"","text":""},{"title":"about","date":"2021-06-10T02:36:08.000Z","updated":"2021-06-16T03:23:18.512Z","comments":true,"path":"about/index.html","permalink":"http://example.com/about/index.html","excerpt":"","text":""},{"title":"tags","date":"2021-06-10T02:36:00.000Z","updated":"2021-06-10T02:46:31.004Z","comments":true,"path":"tags/index.html","permalink":"http://example.com/tags/index.html","excerpt":"","text":""}],"posts":[{"title":"Home","slug":"Home","date":"2021-06-16T03:28:35.000Z","updated":"2021-06-16T03:48:12.625Z","comments":true,"path":"2021/06/16/Home/","link":"","permalink":"http://example.com/2021/06/16/Home/","excerpt":"","text":"","categories":[],"tags":[]}],"categories":[],"tags":[]}
+{
+    "meta": {
+        "title": "Hexo",
+        "subtitle": "",
+        "description": "",
+        "author": "John Doe",
+        "url": "http://example.com",
+        "root": "/"
+    },
+    "pages": [
+        {
+            "title": "categories",
+            "date": "2021-06-10T02:35:53.000Z",
+            "updated": "2021-06-10T02:46:57.386Z",
+            "comments": true,
+            "path": "categories/index.html",
+            "permalink": "http://example.com/categories/index.html",
+            "excerpt": "",
+            "text": ""
+        },
+        {
+            "title": "about",
+            "date": "2021-06-10T02:36:08.000Z",
+            "updated": "2021-06-16T03:23:18.512Z",
+            "comments": true,
+            "path": "about/index.html",
+            "permalink": "http://example.com/about/index.html",
+            "excerpt": "",
+            "text": ""
+        },
+        {
+            "title": "tags",
+            "date": "2021-06-10T02:36:00.000Z",
+            "updated": "2021-06-10T02:46:31.004Z",
+            "comments": true,
+            "path": "tags/index.html",
+            "permalink": "http://example.com/tags/index.html",
+            "excerpt": "",
+            "text": ""
+        }
+    ],
+    "posts": [
+        {
+            "title": "Home",
+            "slug": "Home",
+            "date": "2021-06-16T03:28:35.000Z",
+            "updated": "2021-06-16T03:48:12.625Z",
+            "comments": true,
+            "path": "2021/06/16/Home/",
+            "link": "",
+            "permalink": "http://example.com/2021/06/16/Home/",
+            "excerpt": "",
+            "text": "",
+            "categories": [],
+            "tags": []
+        }
+    ],
+    "categories": [],
+    "tags": []
+}
